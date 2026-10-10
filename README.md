@@ -5,7 +5,7 @@
 
 <!-- Texto digitando -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Olá%2C+eu+sou+o+Swairovsk+%F0%9F%91%8B;Desenvolvedor+em+constante+evolução;Transformando+ideias+em+código;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Swairovsk;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
 </p>
 
 ---
