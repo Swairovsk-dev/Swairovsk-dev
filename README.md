@@ -3,6 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Swairovsk&fontSize=64&fontAlignY=38&animation=fadeIn&desc=Desenvolvedor%20%7C%20Sempre%20aprendendo&descSize=20&descAlignY=60" alt="Cabeçalho" />
 </p>
 
+
+
 <!-- Texto digitando -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Ol%C3%A1%2C+eu+sou+o+Swairovsk;Desenvolvedor+em+constante+evolu%C3%A7%C3%A3o;Transformando+ideias+em+c%C3%B3digo;Sempre+aprendendo+algo+novo" alt="Typing SVG" />
