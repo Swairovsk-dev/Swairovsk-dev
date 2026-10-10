@@ -24,6 +24,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,html,css,python,git,github&theme=dark" alt="Tecnologias" />
 </p>
 
+
 ---
 
 ### 📊 Estatísticas
