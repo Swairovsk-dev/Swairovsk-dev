@@ -8,6 +8,14 @@ Este repositório mantém o README do perfil de Swairovsk-dev.
 - Sugira melhorias de clareza, acessibilidade ou documentação.
 - Explique no pull request o que mudou e como verificou a alteração.
 
+## Como enviar uma alteração
+
+1. Faça um fork deste repositório.
+2. Crie uma branch para sua melhoria.
+3. Edite o arquivo e salve com um commit.
+4. Abra um pull request para o repositório original.
+5. Explique o que mudou e confira a prévia do Markdown.
+
 ## Trabalhando em dupla
 
 1. Escolham uma melhoria pequena e trabalhem juntos no texto ou código.
